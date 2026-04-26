@@ -88,13 +88,13 @@ python main.py
 
 ---
 
-## 🌐 Output
+## 📸 Screenshots
 
-After execution, you’ll get:
+###  Website Output
+![Alt Text](https://github.com/shripatil70/Automate-Static-Web-Hosting/blob/3c7c127057badf4623b34dbbbfd5828886be6921/screenshots/output.png)
 
-```
-http://<bucket-name>.s3-website.ap-south-1.amazonaws.com
-```
+###  Terminal Output
+![Terminal](https://github.com/shripatil70/Automate-Static-Web-Hosting/blob/3c7c127057badf4623b34dbbbfd5828886be6921/screenshots/terminal.png)
 
 ---
 
